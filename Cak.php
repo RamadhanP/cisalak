@@ -24,7 +24,8 @@ function spam($no, $jum) {
  _\ \/ _ \/ _ `/  ' \  _\ \/ /|_/ /\ \  
 /___/ .__/\_,_/_/_/_/ /___/_/  /_/___/  
    /_/\n
-Author : Muhammad Fazriansyah R: Indoxploit
+Author : Muhammad Fazriansyah: Indoxploit
+status ( Project Hackaton ) BSSN.RI
 =======================================\n";
     sleep(2);
     echo $banner;
