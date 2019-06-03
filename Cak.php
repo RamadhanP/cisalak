@@ -11,9 +11,9 @@ function spam($no, $jum) {
 	curl_close($ch);
 	$js = json_decode($x);
 	if ($js->status == "correct") {
-		echo $i. ".Terkirim :D\n";
+		echo $i. ".Aji ganteng wkwkw\n";
 	}else {
-		echo $i. ".GAGAL\n";
+		echo $i. ".Sayang sekali :(\n";
 		}
 		}
 	}
@@ -24,7 +24,7 @@ function spam($no, $jum) {
  _\ \/ _ \/ _ `/  ' \  _\ \/ /|_/ /\ \  
 /___/ .__/\_,_/_/_/_/ /___/_/  /_/___/  
    /_/\n
-Author : Muhammad Fazriansyah : Indoxploit
+Author : Muhammad Fazriansyah R: Indoxploit
 =======================================\n";
     sleep(2);
     echo $banner;
