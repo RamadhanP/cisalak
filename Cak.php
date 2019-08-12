@@ -25,7 +25,7 @@ function spam($no, $jum) {
 /___/ .__/\_,_/_/_/_/ /___/_/  /_/___/  
    /_/\n
 Author : Muhammad Fazriansyah: Indoxploit
-status ( Project Hackaton ) BSSN.RI
+Location : Cisalak hilir - Cibeber - Cianjur
 =======================================\n";
     sleep(2);
     echo $banner;
